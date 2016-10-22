@@ -2,24 +2,40 @@
 	box-sizing: border-box;
 }
 html, body {
+	position: relative;
 	width: 100%;
+	height: 100%;
 	margin: 0px;
 	padding: 0px;
+}
+header, footer {
+	background-color: black;
+	color: white;
+	width: 100%;
+	font-family: Courier New;
+	font-size: 16pt;
+	text-align: center;
+	z-index: 1000;
 }
 header {
 	position: fixed;
 	top: 0;
 	left: 0;
-	width: 100%;
-	background-color: black;
-	color: white;
-	font-family: Courier New;
-	font-size: 16pt;
-	padding: 0px 40px;
 	letter-spacing: 6px;
-	word-spacing: 10px;
-	text-align: center;
-	z-index: 1000;
+	word-spacing: 10px;	
+}
+footer {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+ul, li {
+	margin: 7px;
+}
+footer li {
+	display: inline;
 }
 h1 {
 	margin: 10px 0px;
