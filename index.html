@@ -6,29 +6,27 @@
 		
 		{% include head.html %}
 		
-		<link rel='stylesheet' href='/css/index.css'>
-		
 		<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.js"></script>
 	
 	</head>
 	<body>
-		<header>
-			<h1>cyberboy666 & user43368831 presents</h1>
-		</header>
 		
-		<article>
-			<div class="link-container">
-				<div class="page-link"><a href="{{ site.url }}"><img src="./images/diy-poster.jpg" width="100%"><div class="page-title"><p><span class="bolded">DIY</span> video builds</p></div></a></div>
-				<div class="page-link"><a href="/_pages/default.html"><img src="./images/achive-poster.jpg" height="100%"><div class="page-title"><p>video hardware <span class="bolded">ARCHIVE</span></p></div></a></div>
-				<div class="page-link"><a href=""><img src="./images/trash-poster.png" height="100%"><div class="page-title"><p><span class="bolded">TRASH</span> palace film club</p></div></a></div>
-				<div class="page-link"><a href=""><img src="./images/other-poster.jpg" width="100%"><div class="page-title"><p>about, thoughts & <span class="bolded">OTHER</span></p></div></a></div>
+		{% include header.html %}
+		
+		<div class="background">
+			<img src="/images/index-background.gif">
+			<div class="button-container">
+				<div class="page-button"><a href="{{ site.url }}/diy/"><img src="./images/diy-poster.jpg" width="100%"><div class="button-title"><p><b>DIY</b> video builds</p></div></a></div>
+				<div class="page-button"><a href="{{ site.url }}/archive/"><img src="./images/achive-poster.jpg" height="100%"><div class="button-title"><p>video hardware <b>ARCHIVE</b></p></div></a></div>
+				<div class="page-button"><a href="{{ site.url }}/trash/"><img src="./images/trash-poster.png" height="100%"><div class="button-title"><p><b>TRASH</b> palace film club</p></div></a></div>
+				<div class="page-button"><a href="{{ site.url }}/other/"><img src="./images/other-poster.jpg" width="100%"><div class="button-title"><p>about, thoughts & <b>OTHER</b></p></div></a></div>
 			</div>
-		</article>
+		</div>
 		
 		{% include footer.html %}
 		
 		<script>
-			var lc = $('.link-container');
+			var lc = $('.button-container');
 			lc.css({
 				'height': lc.width() + 'px'
 			});

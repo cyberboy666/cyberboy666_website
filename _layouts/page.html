@@ -18,13 +18,14 @@ layout: default
 	{% assign image =  site.other-section-image %}
 	{% assign title =  site.other-title %}
 {% endif %}
-
-<div class="section-banner">
-	<a href='{{ site.url }}/{{ page.type }}'><img src={{ image }}></a>
-	<div class="section-title">
-		<h1>{{ title }}</h1>
+<div class="container">
+	<div class="section-banner">
+		<a href='{{ site.url }}/{{ page.type }}/'><img src={{ image }}></a>
+		<div class="section-title">
+			<h1>{{ title }}</h1>
+		</div>
 	</div>
+	<article>
+		{{ content }}
+	</article>
 </div>
-<article>
-	{{ content }}
-</article>
