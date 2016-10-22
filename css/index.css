@@ -10,7 +10,7 @@ body {
 }
 .link-container {
 	margin: auto;
-	width: 80%;
+	width: 75%;
 }
 .page-link {
 	position: relative;
@@ -18,7 +18,7 @@ body {
 	float: left;
 	width: 44%;
 	height: 44%;
-	border: 20px solid black;
+	border: 15px solid black;
 	border-radius: 30px;
 	background-color: white;
 	font-family: Courier New;

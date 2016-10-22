@@ -3,10 +3,15 @@ title: DIY video builds
 description:
 poster:
 banner:
-permalink: /diy/
+layout: intro
+permalink: /diymd/
 ---
-
-# {{ page.title }}
+<div class="container">
+<img src="/images/archive-poster2.jpg">
+<div class="center">
+<h1>{{ page.title }}</h1>
+</div>
+</div>
 
 ## Introduction
 
