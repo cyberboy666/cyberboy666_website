@@ -1,17 +1,11 @@
 ---
-title: DIY video builds
 description:
 poster:
 banner:
+type: diy
 layout: intro
-permalink: /diymd/
+permalink: /diy/
 ---
-<div class="container">
-<img src="/images/archive-poster2.jpg">
-<div class="center">
-<h1>{{ page.title }}</h1>
-</div>
-</div>
 
 ## Introduction
 

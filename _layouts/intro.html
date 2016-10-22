@@ -1,18 +1,19 @@
 ---
+layout: page
 ---
-<!DOCTYPE html>
-<html lang="en">
 
-	{% include head.html %}
-	<link rel='stylesheet' href='/css/intro.css'>
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Vollkorn">
+{% assign articles = site.articles | sort: 'code' %}
 
-	<body>
-		{% include header.html %}
-		<article>
-			{{ content }}
-		</article>
-		{% include footer.html %}
-	</body>
-
-</html>
+<div class="intro">
+	{{ content }}
+</div>
+<ul>
+	{% for item in articles %}
+		{% if item.type == page.type %}
+			<li>
+				<a href="{{ site.url }}/{{ item.type }}/{{ item.code }}">{{ item.code }} - {{ item.title }}</a>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
+		

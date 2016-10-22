@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% if page.type == 'diy' %}
+	{% assign image =  site.diy-section-image %}
+	{% assign title =  site.diy-title %}
+{% endif %}
+{% if page.type == 'archive' %}
+	{% assign image =  site.archive-section-image %}
+	{% assign title =  site.archive-title %}
+{% endif %}
+{% if page.type == 'trash' %}
+	{% assign image =  site.trash-section-image %}
+	{% assign title =  site.trash-title %}
+{% endif %}
+{% if page.type == 'other' %}
+	{% assign image =  site.other-section-image %}
+	{% assign title =  site.other-title %}
+{% endif %}
+
+<div class="section-banner">
+	<a href='{{ site.url }}/{{ page.type }}'><img src={{ image }}></a>
+	<div class="section-title">
+		<h1>{{ title }}</h1>
+	</div>
+</div>
+<article>
+	{{ content }}
+</article>
