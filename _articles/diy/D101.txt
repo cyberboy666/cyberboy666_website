@@ -1,0 +1,46 @@
+---
+code: D101
+type: diy
+title: Building a static video signal mixer
+description: A simple 'sync-less' composite video mixer
+---
+
+# {{page.title}}
+*{{page.description}}*
+
+put a video or some stills here?
+
+## what you will need
+
+list of components used in this project:
+- 500ohm linear potentiometer (perhaps links these?)
+- x3 rca jacks
+- some wire
+- some casing (cassette box?)
+
+note: you will also need some basic tools to get started - see this list of necessary and optional tools.
+
+[picture here - the raw ingredients]
+
+## the schematic
+
+[picture of the schematic]
+
+this is one of the simplest circuits you can make with analogue video signals. it takes the +ve signals from the two input pin (see here for composite video signal basics) and sends it to the potentiometer to be 'mixed'. The composite outputs +ve signal is a combination of the two inputs based on the position of the pot. (hard left is all input1, hard right all input2 etc) this circuit loses the sync component of the signal required to display a stable image resulting in the scrolling effect seen above.
+
+## Assembling the circuit
+
+1. carefully drill holes in your casing and screw in the components
+[image]
+2. wire the grounds to grounds and signals to signals as per the schematic (obviously colour choice is arbitrary but it helps to be consistent - especially with more complex builds)
+[image]
+3. test it out! (you will need something outputting composite video to use this device - read here for some thoughts on beginner video sources. results also vary depending on your choice of display - some more information can be found here )
+[image]
+
+## afterthoughts
+
+- try feeding an audio signal into one of the inputs - what out the output back into input?
+- this might look good with bold colours in one side - try to track down one of these?
+- did it work? did you spot a mistake or know a good improvement to this build? please get in touch here and let me know.
+
+you might also want to try DIY102 build next?

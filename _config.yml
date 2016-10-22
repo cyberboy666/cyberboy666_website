@@ -29,7 +29,7 @@ theme: minima
 gems:
     - jekyll-feed
 collections:
-    articles: {output: true, permalink: /:path/}
+    articles: {output: true, permalink: '/:path/'}
 exclude:
     - Gemfile
     - Gemfile.lock
