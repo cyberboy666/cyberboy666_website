@@ -3,10 +3,10 @@ title: DIY video builds
 description:
 poster:
 banner:
-permalink: /diy
+permalink: /diy/
 ---
 
-# {%site.title%}
+# {{ page.title }}
 
 ## Introduction
 
