@@ -28,6 +28,8 @@ markdown: kramdown
 theme: minima
 gems:
     - jekyll-feed
+collections:
+    articles: {output: true, permalink: /:path/}
 exclude:
     - Gemfile
     - Gemfile.lock
