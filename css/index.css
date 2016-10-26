@@ -11,7 +11,7 @@ header, footer {
 	color: white;
 	width: 100%;
 	font-family: Courier New;
-	font-size: 16pt;
+	font-size: 14pt;
 	text-align: center;
 	z-index: 1000;
 }
@@ -27,7 +27,7 @@ a {
 }
 .container {
 	margin: auto;
-	padding-top: 48px; /* header height */
+	padding-top: 40px; /* header height */
 	width: 65%;
 	height: 100%;
 	background-color: #262626;
@@ -45,7 +45,7 @@ a {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 24pt;
+    font-size: 20pt;
 	color: black;
 	line-height: 0.8;
 }
