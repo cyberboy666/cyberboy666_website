@@ -17,6 +17,6 @@ Given these circumstances (and to justify my unhealthy obsession with collecting
 By taking time to document not just the different specs, but also their subtle quirks and misbehaviours, I hope to catalogue a slice of dead media that showcases the potential for repurposed video-art and captures some of the personality in each retired machine.
 \\
 \\
-I have also had the privilege of assembling some beautiful video-circuit kits created by active artists/creators which I hope to document and showcase here.
+I have also had the pleasure of assembling some beautiful video-circuit kits created by active artists/creators which I also plan to document and showcase here.
 
-##Projects
+## Archive
