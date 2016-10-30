@@ -11,7 +11,7 @@ header, footer {
 	color: white;
 	width: 100%;
 	font-family: Courier New;
-	font-size: 14pt;
+	font-size: 12pt;
 	text-align: center;
 	z-index: 1000;
 }
@@ -27,13 +27,13 @@ a {
 }
 .container {
 	margin: auto;
-	padding-top: 40px; /* header height */
+	padding-top: 30px; /* header height */
 	width: 65%;
 	height: 100%;
 	background-color: #262626;
 	color: white;
 	font-family: 'Vollkorn';
-	font-size: 18pt;
+	font-size: 16pt;
 }
 .section-banner {
 	position: relative;
@@ -42,10 +42,11 @@ a {
 }
 .section-title {
     position: absolute;
+	
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 20pt;
+    font-size: 18pt;
 	color: black;
 	line-height: 0.8;
 }
