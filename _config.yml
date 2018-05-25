@@ -25,7 +25,7 @@ other-section-image: /images/other-poster.png
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
     - jekyll-feed
 collections:
     articles: {output: true, permalink: '/:path/'}
