@@ -1,38 +1,90 @@
 ---
 ---
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 	<head>
-		
-		{% include head.html %}
-		
-		<script type="text/javascript" src="/scripts/jquery-3.1.1.min.js"></script>
-	
-	</head>
-	<body>
-		
-		{% include header.html %}
-		
-		<div class="background">
-			<img src="/images/index-background.gif">
-			<div class="button-container">
-				<div class="page-button"><a href="{{ site.url }}/diy/"><img src="./images/diy-poster.png" width="100%"><div class="button-title"><p><b>DIY</b> video builds</p></div></a></div>
-				<div class="page-button"><a href="{{ site.url }}/archive/"><img src="./images/archive-poster.png" height="100%"><div class="button-title"><p>video hardware <b>ARCHIVE</b></p></div></a></div>
-				<div class="page-button"><a href="{{ site.url }}/trash/"><img src="./images/trash-poster.png" height="100%"><div class="button-title"><p><b>TRASH</b> palace film club</p></div></a></div>
-				<div class="page-button"><a href="{{ site.url }}/other/"><img src="./images/other-poster.png" width="100%"><div class="button-title"><p>about, thoughts & <b>OTHER</b></p></div></a></div>
-			</div>
-		</div>
-		
-		{% include footer.html %}
-		
-		<script>
-			var lc = $('.button-container');
-			lc.css({
-				'height': lc.width() + 'px'
-			});
-			lc.css({
-				'margin-top': $( window ).height()
-			})
-		</script>
+
+	{% include head.html %}
+
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="./scripts/jquery.onepage-scroll.js"></script>
+	<link href='./css/onepage-scroll.css' rel='stylesheet' type='text/css'>
+	<link href='./css/component.css' rel='stylesheet' type='text/css'>
+
+	<script>
+	  $(document).ready(function(){
+      $(".main").onepage_scroll({
+      	dotstyle: "scaleup",
+        sectionContainer: "section",
+		keyboard: true,
+        responsiveFallback: 600,
+        loop: true
+      });
+		});
+
+	</script>
+</head>
+<body>
+
+	{% include header.html %}
+
+  <div class="main-body">
+	  <div class="main">
+			<section id="diy">
+					<a href="{{ site.url }}/diy/">
+						<div class="img-container"><img src= {{ site.diy-section-image }} ></div>
+					</a>
+			</section>
+				<section id="recur">
+					<a href="{{ site.url }}/recur/">
+						<div class="img-container"><img src= {{ site.recur-section-image }}></div>
+					</a>
+				</section>
+				<section id="trashpalace">
+					<a href="{{ site.url }}/trashpalace/">
+						<div class="img-container"><img src= {{ site.trashpalace-section-image }}></div>
+					</a>
+				</section>
+				<section id="sybersex">
+					<a href="{{ site.url }}/sybersex/">
+						<div class="img-container"><img src= {{ site.sybersex-section-image }}></div>
+					</a>
+				</section>
+				<section id="tablehooters">
+					<a href="{{ site.url }}/tablehooters/">
+						<div class="img-container"><img src= {{ site.tablehooters-section-image }}></div>
+					</a>
+				</section>
+				<section id="wemakeporn">
+					<a href="{{ site.url }}/wemakeporn/">
+						<div class="img-container"><img src= {{ site.wemakeporn-section-image }}></div>
+					</a>
+				</section>
+				<section id="irregular">
+					<a href="{{ site.url }}/irregular/">
+						<div class="img-container"><img src= {{ site.irregular-section-image }}></div>
+					</a>
+				</section>
+				<section id="cyberboy666">
+					<a href= "{{ site.url }}/cyberboy666/">
+						<div class="img-container">
+								
+							<img src= {{ site.cyberboy666-section-image }}>
+							<div class="index-footer">
+								{% include footer.html %}
+							</div>
+						</div>
+						
+					</a>
+
+
+					
+				</section>
+				
+    		</div>
+			
+		  </div>
+		  
+
 	</body>
 </html>

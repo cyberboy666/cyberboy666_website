@@ -12,14 +12,15 @@ url: "http://langolierz.github.io"
 #url: "localhost:4000"
 github_username:  langolierz
 
-diy-title: 'DIY video builds'
+
 diy-section-image: /images/diy-poster.png
-archive-title: 'video hardware ARCHIVE'
-archive-section-image: /images/archive-poster.png
-trash-title: 'TRASH palace film club'
-trash-section-image: /images/trash-poster.png
-other-title: 'about, thoughts & OTHER'
-other-section-image: /images/other-poster.png
+recur-section-image: /images/recur-poster.png
+trashpalace-section-image: /images/trashpalace-poster.png
+sybersex-section-image: /images/sybersex-poster.png
+tablehooters-section-image: /images/tablehooters-poster.png
+wemakeporn-section-image: /images/wemakeporn-poster.png
+irregular-section-image: /images/irregular-poster.png
+cyberboy666-section-image: /images/cyberboy666-poster.png
 
 
 # Build settings

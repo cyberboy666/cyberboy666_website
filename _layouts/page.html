@@ -4,26 +4,32 @@ layout: default
 
 {% if page.type == 'diy' %}
 	{% assign image =  site.diy-section-image %}
-	{% assign title =  site.diy-title %}
 {% endif %}
-{% if page.type == 'archive' %}
-	{% assign image =  site.archive-section-image %}
-	{% assign title =  site.archive-title %}
+{% if page.type == 'recur' %}
+	{% assign image =  site.recur-section-image %}
 {% endif %}
-{% if page.type == 'trash' %}
-	{% assign image =  site.trash-section-image %}
-	{% assign title =  site.trash-title %}
+{% if page.type == 'trashpalace' %}
+	{% assign image =  site.trashpalace-section-image %}
 {% endif %}
-{% if page.type == 'other' %}
-	{% assign image =  site.other-section-image %}
-	{% assign title =  site.other-title %}
+{% if page.type == 'sybersex' %}
+	{% assign image =  site.sybersex-section-image %}
 {% endif %}
+{% if page.type == 'tablehooters' %}
+	{% assign image =  site.tablehooters-section-image %}
+{% endif %}
+{% if page.type == 'wemakeporn' %}
+	{% assign image =  site.wemakeporn-section-image %}
+{% endif %}
+{% if page.type == 'irregular' %}
+	{% assign image =  site.irregular-section-image %}
+{% endif %}
+{% if page.type == 'cyberboy666' %}
+	{% assign image =  site.cyberboy666-section-image %}
+{% endif %}
+
 <div class="container">
 	<div class="section-banner">
 		<a href='{{ site.url }}/{{ page.type }}/'><img src={{ image }}></a>
-		<div class="section-title">
-			<h1>{{ title }}</h1>
-		</div>
 	</div>
 	<article>
 		{{ content }}

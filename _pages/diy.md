@@ -1,19 +1,61 @@
 ---
-description:
-poster:
-banner:
 type: diy
-layout: intro
+layout: page
 permalink: /diy/
 ---
 
-## Introduction
+# diy projects & installations
 
-Endeavouring to help other amateurs like me take their first diy video steps, I have selected a number of cheap beginner projects (loosely ordered by difficulty) to meticulously document here. I am still learning and can by no means tell you the definitive way to build anything. A huge part of the fun is experimenting - by recording my thoughts, successes and failures I only hope to inspire some others to break video.
- \\
- \\
- (SPOILER: circuit bending most video artefacts is dangerous. Do not attempt these if you are not aware/comfortable with the risks involved - there are plenty of other safe projects to try!)
 
-##Projects
+project logs, promo videos, technical details, useful links, background info etc
+
+## installations
+
+![image][deadchannelimage]
+
+- [DEAD CHANNEL] : a sound-reactive teevee wall / video-art installation, made from salvaged & modified crt tvs
+
+![image][parasiticcircuitryimage]
+
+- [pARasITicCirCUitRy] : an interactive glitch-art installation, made from circuit bent ps1, ardunio and some relays
+
+## projects
+
+this (fairly large) [r_e_c_u_r] project has dominated my spare time lately, leaving a bunch of others in transit. hopefully i will get around to completing some soon.
+
+### projects [WORKS IN PROGRESS]
+
+note: WIP project logs may be less concise than their completed equivalent...
+
+- building an [x0xb0x] diy bass synth with custom 3d printed case and mods
+- building a [midi splitter], probably in eurorack compatible format
+- building a variable bench [dc power supply]
+- rebuilding [cyberboy666.com] ; a static website to host my projects, documentation and art portfolio
+- mod my [volca beets]
+- mod a small toy keyboard to be a [midi controller]
+- new version of a [VGA video synth]
+
+
+### future projects
+
+- mod my dr-110 and tr-626 drum machines
+- investigate [eurorack] as a hardware standard, document experiments / write about findings
+
+[deadchannelimage]: /images/diy/deadchannel-01.png
+[parasiticcircuitryimage]: /images/diy/parasiticcircuitry.jpg
+[DEAD CHANNEL]:
+[pARasITicCirCUitRy]:
+
+[r_e_c_u_r]:
+[x0xb0x]:
+[midi splitter]:
+[dc power supply]:
+[cyberboy666.com]:
+[volca beets]:
+[midi controller]:
+[VGA video synth]:
+[eurorack]:
+
+
 
 

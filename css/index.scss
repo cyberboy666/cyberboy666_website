@@ -1,0 +1,124 @@
+---
+---
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: black;
+}
+header, footer {
+	background-color: black;
+	color: white;
+	width: 100%;
+	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+	font-size: 9pt;
+	font-weight: lighter;
+	letter-spacing: 6px;
+	text-align: center;
+	z-index: 1000;
+	
+}
+header {
+	position: fixed;
+}
+
+.index-footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+}
+footer li {
+	display: inline;
+}
+.container {
+	margin: auto;
+	padding-top: 30px; /* header height */
+	width: 70%;
+	height: 100%;
+	background-color: #1c1f24;
+	color: #e5dfc5;
+	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;;
+	font-size: 13pt;
+	line-height: 18pt;
+}
+.section-banner {
+	position: relative;
+	height: 200px;
+	overflow: hidden;
+}
+img {
+	width: 100%;
+}
+article {
+	padding: 30px 70px 200px 70px;
+}
+
+h1{
+	font-size: 26pt;
+	margin-top:20px;
+	margin-bottom:40px;
+}
+
+h2, h3, h4, h5, h6{
+	margin-top:20px;
+	margin-bottom:20px;
+  }
+article li {
+	margin: 10px 0px 10px 50px;
+}
+
+.page {
+	float: left;
+	width: 100vw;
+	height: 100vh;
+  }
+  
+  /* for index */
+
+  .main-body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100wh;
+	height: 100vh;
+  }
+
+  .docScroller {
+	overflow-x: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	scroll-snap-points-y: repeat(100%);
+	scroll-snap-type: mandatory;
+	scroll-snap-destination: 100% 0%;
+  }
+  .docScroller::-webkit-scrollbar { 
+    display: none;  // Safari and Chrome
+}
+  
+  .main section {
+
+	width: 100wh;
+	height: 100vh;
+  }
+  
+   .img-container {
+	display: flex;
+	align-items: center;
+	width: 100wh;
+	height: 100vh;
+
+}
+
+/* the vertical scroll */
+
+/* Common styles and resets */
+

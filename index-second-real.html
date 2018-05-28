@@ -1,0 +1,90 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		
+		{% include head.html %}
+		
+		<script type="text/javascript" src="/scripts/jquery-3.1.1.min.js"></script>
+	
+	</head>
+	<body>
+		
+		{% include header.html %}
+
+		<div class="main-body">
+			<div class="main">
+				<div class="page-button" id="diy">
+					<a href="{{ site.url }}/diy/">
+						<div class="img-container"><img src="./images/diy-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="r_e_c_u_r">
+					<a href="{{ site.url }}/r_e_c_u_r/">
+						<div class="img-container"><img src="./images/recur-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="TRASHPALACE">
+					<a href="{{ site.url }}/TRASHPALACE/">
+						<div class="img-container"><img src="./images/trash-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="SYB3RS3X">
+					<a href="{{ site.url }}/SYB3RS3X/">
+						<div class="img-container"><img src="./images/sybersex-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="tableh00ters">
+					<a href="{{ site.url }}/tableh00ters/">
+						<div class="img-container"><img src="./images/tablehooters-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="WEMAKEPORN">
+					<a href="{{ site.url }}/WEMAKEPORN/">
+						<div class="img-container"><img src="./images/wemakeporn-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="irregular">
+					<a href="{{ site.url }}/irregular/">
+						<div class="img-container"><img src="./images/irregular-poster.png"></div>
+					</a>
+				</div>
+				<div class="page-button" id="cyberboy666">
+					<a href="{{ site.url }}/cyberboy666/">
+						<div class="img-container"><img src="./images/cyberboy666-poster.png"></div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+<!-- 		<div class="dotstyle dotstyle-fillup">
+				<ul>
+					<li class="current"><a href="#">Home</a></li>
+					<li><a href="#">diy</a></li>
+					<li><a href="#">r_e_c_u_r</a></li>
+					<li><a href="#">TRASHPALACE</a></li>
+					<li><a href="#">SYB3RS3X</a></li>
+					<li><a href="#">tableh00ters</a></li>
+					<li><a href="#">WEMAKEPORN</a></li>
+					<li><a href="#">irregular</a></li>
+					<li><a href="#">cyberboy666</a></li>
+				</ul>
+			</div> -->
+
+		{% include footer.html %}
+		<script>
+				$(document).ready(function(){
+				$(".main").onepage_scroll({
+					dotstyle: "fillup",
+				  sectionContainer: "section",
+				  responsiveFallback: 600,
+				  loop: true
+				});
+				  });
+			  </script>
+
+		<!-- <script type="text/javascript" src="/scripts/scrollsnap-polyfill.bundled.js"></script> -->
+
+	</body>
+</html>
