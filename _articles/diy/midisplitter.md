@@ -1,3 +1,8 @@
+---
+type: diy
+layout: page
+---
+
 # 1 to 5 active midi splitter
 
 i want a midi splitter so i can control/swap out different drum machines and synth sounds sequenced by the deluge.

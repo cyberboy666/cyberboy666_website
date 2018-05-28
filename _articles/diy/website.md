@@ -1,3 +1,8 @@
+---
+type: diy
+layout: page
+---
+
 # cyberboy666.com
 
 almost 2 years ago i decided i wanted to diy a website for my art-projects. my brother Ben and i spent a weekend deciding on the stack, learning some tools and having a go at laying down some foundations.

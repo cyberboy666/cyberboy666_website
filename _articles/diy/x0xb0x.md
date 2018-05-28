@@ -1,10 +1,15 @@
+---
+type: diy
+layout: page
+---
+
 # building an x0xb0x bass synth
 
 i am interested in electronic music history/hardware/diy
 
 this project; building from kit, a open-sourced clone of the (in)famous TB303 is the intersection of all three of the above !
 
-![x0xb0x](./images/x0xb0x.jpg)
+![x0xb0x](/images/diy/x0xb0x/x0xb0x.jpg)
 
 ## getting started
 

@@ -1,3 +1,8 @@
+---
+type: diy
+layout: page
+---
+
 # eurorack research
 
 since i plan on building a number of video and audio units it seems necessary to try implement some 

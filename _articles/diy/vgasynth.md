@@ -1,0 +1,4 @@
+---
+type: diy
+layout: page
+---

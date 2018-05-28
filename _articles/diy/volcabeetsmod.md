@@ -1,3 +1,8 @@
+---
+type: diy
+layout: page
+---
+
 # volca beets mod
 
 analog drum machines are interesting in part because of the opportunity

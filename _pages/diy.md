@@ -11,11 +11,11 @@ project logs, promo videos, technical details, useful links, background info etc
 
 ## installations
 
-![image][deadchannelimage]
+[![image][deadchannelimage]]({{ site.url }}/{{ page.type }}/deadchannel)
 
 - [DEAD CHANNEL] : a sound-reactive teevee wall / video-art installation, made from salvaged & modified crt tvs
 
-![image][parasiticcircuitryimage]
+[![image][parasiticcircuitryimage]]({{ site.url }}/{{ page.type }}/parasiticcircuitry)
 
 - [pARasITicCirCUitRy] : an interactive glitch-art installation, made from circuit bent ps1, ardunio and some relays
 
@@ -43,18 +43,18 @@ note: WIP project logs may be less concise than their completed equivalent...
 
 [deadchannelimage]: /images/diy/deadchannel-01.png
 [parasiticcircuitryimage]: /images/diy/parasiticcircuitry.jpg
-[DEAD CHANNEL]:
-[pARasITicCirCUitRy]:
+[DEAD CHANNEL]: {{ site.url }}/{{ page.type }}/deadchannel
+[pARasITicCirCUitRy]: {{ site.url }}/{{ page.type }}/parasiticcircuitry
 
-[r_e_c_u_r]:
-[x0xb0x]:
-[midi splitter]:
-[dc power supply]:
-[cyberboy666.com]:
-[volca beets]:
-[midi controller]:
-[VGA video synth]:
-[eurorack]:
+[r_e_c_u_r]: {{ site.url }}/recur
+[x0xb0x]: {{ site.url }}/{{ page.type }}/x0xb0x
+[midi splitter]: {{ site.url }}/{{ page.type }}/midisplitter
+[dc power supply]: {{ site.url }}/{{ page.type }}/dcpowersupply
+[cyberboy666.com]: {{ site.url }}/{{ page.type }}/website
+[volca beets]: {{ site.url }}/{{ page.type }}/volcabeetsmod
+[midi controller]: {{ site.url }}/{{ page.type }}/keyboardmidicontroller
+[VGA video synth]: {{ site.url }}/{{ page.type }}/vgasynth
+[eurorack]: {{ site.url }}/{{ page.type }}/eurorack
 
 
 

@@ -1,3 +1,8 @@
+---
+type: diy
+layout: page
+---
+
 # diy guide to starting eurorack
 
 ## motive

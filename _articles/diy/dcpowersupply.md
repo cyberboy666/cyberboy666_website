@@ -1,6 +1,11 @@
+---
+type: diy
+layout: page
+---
+
 i am going to try following this [project]
 
-![bench power](./images/benchpower.jpg)
+![bench power](/images/diy/benchpower/benchpower.jpg)
 
 these are some of the parts i might need :
 
@@ -26,13 +31,17 @@ in total these parts (including quite a few extra parts for the backlog) comes t
 
 ## next step:
 
-the parts are ordered - i look forward to putting it together once they arrive. note: completing this is blocking work on the [x0xb0x] synth as i will want to use it while making that kit.
+the parts are ordered - i look forward to putting it together once they arrive. note: completing this is (kinda) blocking work on the [x0xb0x] synth as i will want to use it while making that kit.
 
 i can still work on the encloser before then though
 
 ### 28/3 UPDATE
 
 most of the parts have arrived. just need the encloser printed and to buy the transformer from jaycar. i have soldered together the circuit from the kit. just need to put everything together now (once the case and final parts are ready)
+
+### 28/05 UPDATE
+
+the enclosure has been designed in fusion360 and the transformer has been purchased. need to get enclosure printed then just a matter of assembly.
 
 [project]: http://www.instructables.com/id/DIY-Bench-Power-Supply/
 [jaycar]: https://www.jaycar.co.nz/24v-72va-3a-single-winding-type-2158-transformer/p/MM2012

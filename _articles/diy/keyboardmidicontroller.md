@@ -1,3 +1,8 @@
+---
+type: diy
+layout: page
+---
+
 # diy midi controller from an old toy keyboard
 
 i would like some small portable 'keys' that output midi for creating chords, patterns etc into synths. i have a small ardunio that should be up for the job. i beleive it is possible to output midi through the ardunio usb, which could be wired to a port and installed in the keyboard.
