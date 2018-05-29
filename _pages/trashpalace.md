@@ -20,4 +20,9 @@ we sometimes showed short films before the feature, a few double features were t
 
 i have archived each screening here along with promo text and images from the TRASHPALACE facebook group. although the text is my own (unless in quotes), some copy/paste phrases from online reviews was necessary to capture and hype films i hadnt seen - thank you if your words helped me share these awesome films.
 
+special thanks to Scumbalinas [blog] and [letterboxd lists] for inspiring much of the content and my own taste for trash
+
 ## TRASHPALACE2017 LINEUP
+
+[blog]: http://atomiccaravan.blogspot.co.nz/
+[letterboxd lists]: https://letterboxd.com/scumbalina/lists/
