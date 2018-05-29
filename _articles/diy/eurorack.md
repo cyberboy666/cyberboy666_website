@@ -79,4 +79,4 @@ more of these on [diying-for-eurorack] page
 [HackMe]: http://hackmeopen.com/
 [music things modular]: http://www.musicthing.co.uk/
 [lzx]: https://www.lzxindustries.net/product-category/eurorack/diy/
-[diying for eurorack]: ./diy-guide-to-eurorack.md
+[diying for eurorack]: {{ site.url }}/{{ page.type }}/diy-guide-to-eurorack

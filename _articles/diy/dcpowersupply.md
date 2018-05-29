@@ -45,4 +45,4 @@ the enclosure has been designed in fusion360 and the transformer has been purcha
 
 [project]: http://www.instructables.com/id/DIY-Bench-Power-Supply/
 [jaycar]: https://www.jaycar.co.nz/24v-72va-3a-single-winding-type-2158-transformer/p/MM2012
-[x0xb0x]: ./x0xb0x.md
+[x0xb0x]: {{ site.url }}/{{ page.type }}/x0xb0x

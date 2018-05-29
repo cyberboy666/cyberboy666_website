@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign articles = site.articles | sort: 'title' %}
+
+	{% for item in articles %}
+		{% if item.type == page.type %}
+                
+                <details>
+                        <summary> <a href="{{ item.url }}">{{ item.title }}</a> - {{item.film-title}} </summary>
+                        
+                        {{item.content}}
+                        
+                    </details>
+		{% endif %}
+	{% endfor %}
