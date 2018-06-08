@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-11
-summary: co-created Getting Out of Bed - a short experimental film as 1/2 of WEMAKEPORN
+summary: co-created <b>Getting Out of Bed</b> - a short experimental film as 1/2 of WEMAKEPORN
 layout: page
 ---
 

@@ -11,4 +11,5 @@ layout: page
 ![image](/images/cyberboy666/blockparty.jpg)
 ![image](/images/cyberboy666/blockparty1.jpg)
 
+(photos by Rob Burrows)
 

@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2015-09
-summary: wrote, directed and self-produced independent experimental film empty your MINDZONE
+summary: wrote, directed and self-produced an independent experimental film <b>empty your MINDZONE</b>
 layout: page
 ---
 

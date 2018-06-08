@@ -11,5 +11,7 @@ layout: page
 ![image](/images/cyberboy666/eyegum2.jpg)
 ![image](/images/cyberboy666/eyegum3.jpg)
 
+(photos by Sam Blyth Collective)
+
 
 

@@ -7,8 +7,7 @@ layout: page
 
 ## [ {{page.title}} ]({{page.url}})
 
-121 curates a number of popular dance party events in Wellington. Emmi Walden-McLean filmed and edited footage from the party including plenty of colours from my live visuals:
-
+121 curates a number of popular dance party events in Wellington.
 
 <iframe src="https://www.youtube.com/embed/YnKRX9LQh7s" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -16,3 +15,5 @@ layout: page
 ![image](/images/cyberboy666/officeblock.jpg)
 ![image](/images/cyberboy666/officeblock1.jpg)
 ![image](/images/cyberboy666/officeblock2.jpg)
+
+(video and photos by Emmi Walden-McLean)

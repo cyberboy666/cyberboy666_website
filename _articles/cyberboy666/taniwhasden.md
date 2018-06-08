@@ -9,3 +9,5 @@ layout: page
 
 ![image](/images/cyberboy666/taniwhasden2.jpg)
 ![image](/images/cyberboy666/taniwhasden3.jpg)
+
+(photos by Kelly Kellective)

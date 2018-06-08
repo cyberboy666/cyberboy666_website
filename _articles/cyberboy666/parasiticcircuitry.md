@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-07
-summary: created PARASITIC CIRCUITRY interactive glitch-art installation
+summary: created <b>PARASITIC CIRCUITRY</b> interactive glitch-art installation
 layout: page
 ---
 

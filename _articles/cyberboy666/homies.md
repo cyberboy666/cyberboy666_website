@@ -7,12 +7,12 @@ layout: page
 
 ## [ {{page.title}} ]({{page.url}})
 
-more info about the space, opened by Naomi Smith [here]
+opened by Naomi Smith, more info about the space [here]
 
 ![image](/images/cyberboy666/homies.jpg)
 ![image](/images/cyberboy666/homies1.jpg)
 
-while in this space i curated a general filmclub for the main area and also began experimenting with a 'secret' proto-TRASHPALACE cult/outsider film night in the back room. making it exclusive must have worked as these screenings were more popular than the main nights ! (pictured below)
+while in this space i curated a film night for the main area and also began experimenting with a 'secret' proto-TRASHPALACE cult/outsider film night in the back room. making it exclusive must have worked as these screenings were more popular than the main nights ! (pictured below)
 
 ![image](/images/cyberboy666/homies-filmclub.jpg) 
 

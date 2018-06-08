@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2016-01, ongoing
-summary: begun experimenting with video-bending , collecting obsolete video hardware, making some video-art shorts
+summary: conceived <b>cyberboy666</b>; begun experimenting with video-bending , collecting obsolete video hardware, making some video-art shorts
 layout: page
 ---
 
@@ -15,9 +15,9 @@ Ian Matthews and i started poking around (carefully) inside a vhs player. i made
 
 <iframe src="https://player.vimeo.com/video/152856019?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### exploration \#2
+### exploration \#2 (corporate sponsorship)
 
-video made with a simple diy vga-synth, i started building as part of a work hackathon:
+video made with a simple diy vga-synth i started building as part of a work hackathon:
 
 <iframe src="https://player.vimeo.com/video/167594348?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

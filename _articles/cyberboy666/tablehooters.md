@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-10
-summary: established and hosted the tableh00ters - toykeyboard meditative jam sessions
+summary: established and hosted <b>the tableh00ters</b> - toykeyboard meditative jam sessions
 layout: page
 ---
 
@@ -12,4 +12,4 @@ more info about this at the [tableh00ters] subsite
 [![image][tablehooters]][tableh00ters]
 
 [tableh00ters]: {{site.url}} /tablehooters
-[tablehooters]: /images/tablehooters/hooters1.jpg
+[tablehooters]: /images/tablehooters/hooter1.jpg

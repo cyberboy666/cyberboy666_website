@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2016-04
-summary: created and released welcome to the PLEASUREDOME , a collection of live hardware video performances / music videos
+summary: created and released <b>welcome to the PLEASUREDOME</b> , a collection of live hardware video performances / music videos
 layout: page
 ---
 

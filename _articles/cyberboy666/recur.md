@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2018-05
-summary: designed, developed and released r_e_c_u_r , an open diy video sampler for live performance
+summary: designed, developed and released <b>r_e_c_u_r</b> , an open diy video sampler for live performance
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-02 to 2017-12
-summary: relaunched TRASHPALACE, a weekly celebration of outsider, strange, experimental and cult cinema
+summary: relaunched <b>TRASHPALACE</b>, a weekly celebration of outsider, strange, experimental and cult cinema
 layout: page
 ---
 

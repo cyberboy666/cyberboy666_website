@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-03
-summary: organized, co-hosted and curated day-festival / amateur art showcase BACKYARD SESSION 1
+summary: organized, co-hosted and curated day-festival / amateur art showcase <b>BACKYARD SESSION 1</b>
 layout: page
 ---
 
@@ -24,9 +24,10 @@ a [playlist] of full sets from the basement can be viewed thanks to Matts gopro
 
 <iframe src="https://www.youtube.com/embed/I513uethrWU" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![image](/images/cyberboy666/backyard1-5.jpg)
 ![image](/images/cyberboy666/backyard1-6.jpg)
 ![image](/images/cyberboy666/backyard1-7.jpg)
 ![image](/images/cyberboy666/backyard1-8.jpg)
 ![image](/images/cyberboy666/backyard1-9.jpg)
 ![image](/images/cyberboy666/backyard1-10.jpg)
+
+(photos by Courteney Lomas and Andy Raba)

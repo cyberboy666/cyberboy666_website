@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-12
-summary: organized, co-hosted and curated day-festival / amateur art showcase BACKYARD SESSION 2
+summary: organized, co-hosted and curated day-festival / amateur art showcase <b>BACKYARD SESSION 2</b>
 layout: page
 ---
 

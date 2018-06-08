@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2017-07
-summary: composed and recorded two mushrooms KNOCKING for Radical Mycology Mixtape
+summary: composed and recorded <b>two mushrooms KNOCKING</b> for Radical Mycology Mixtape
 layout: page
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2016-07
-summary: created DEADCHANNEL teevee wall installation with Ian Matthews
+summary: created <b>DEADCHANNEL</b> teevee wall installation with Ian Matthews
 layout: page
 ---
 

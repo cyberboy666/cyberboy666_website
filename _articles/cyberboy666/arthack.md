@@ -12,7 +12,7 @@ layout: page
 <iframe src="https://www.youtube.com/embed/jPghHPxdKb8" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-Matt McKegg (DWS) and i would go on to perform improvised live a/v sets on a number of occasions. Matt performs electronic music using open-source javascript software he created called [loopdrop]. we have similar approaches/interests in improvising, diy, hardware etc which makes collaborating a pleasure
+Matt McKegg (DWS) and i have performed improvised live a/v sets together on a number of occasions. Matt performs electronic music using open-source javascript software he created called [loopdrop]. we have similar approaches/interests in improvising, diy, hardware etc which makes collaborating a pleasure
 
 [loopdrop]: http://loopjs.com/
 
