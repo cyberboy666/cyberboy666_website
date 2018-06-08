@@ -1,20 +1,21 @@
 ---
 type: cyberboy666
-layout: page
+layout: cyberboy
 permalink: /cyberboy666/
 ---
 
-## About
+# cyberboy666
 
-cyberboy666 & user43368831 is an experimental video-art project created to explore ecstasy, confusion and decay through lo-fi DIY circuits, discarded VHS and misused video hardware. By salvaging and hoarding obsolete video equipment I pass time creating canvases to bend, glitch, distort and deconstruct visual stimulation.
-\\
-\\
-This section is an orphanage for miscellaneous knowledge articles, rambling thoughts and creative dribble. If you have any questions or feedback please feel free to [contact me]( {{site.url}}/other/O01).
-\\
-\\
-ps you can check out some videos [I made](https://vimeo.com/user43368831) on vimeo.
+_cyberboy666 & user43368831 presents_ is an umbrella label for the various art & craft projects of Tim Caldwell
 
 
-pps I live in wellington. If you also live here maybe we could organise something cool? If you don't live here perhaps you should visit?
+My interests include experimental video-art and live video performances, DIY electronics and upcycling obsolete consumer equipment, outsider film making and cult film curating, DIY event organizing and community spaces.
 
-## thoughts and other
+![image](/images/cyberboy666/cyberboy666-1.png)
+
+primarily the _cyberboy666_ pseudonym applies to my experimental video-art project created to explore ecstasy, confusion and decay through lo-fi DIY circuits, discarded VHS and misused video hardware.
+
+
+
+## art projects timeline
+

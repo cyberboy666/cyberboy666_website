@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign articles = site.articles | sort: 'month' %}
+
+	{% for item in articles %}
+		{% if item.type == page.type %}
+                
+                <details>
+                        <summary> <b><i>{{ item.month }}</i></b> - {{item.summary}} </summary>
+                        
+                        {{item.content}}
+                        
+                    </details>
+		{% endif %}
+	{% endfor %}

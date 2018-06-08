@@ -36,6 +36,14 @@ header {
 footer li {
 	display: inline;
 }
+a:link {
+	color: hotpink
+}
+a:visited {
+    color: rgb(255, 105, 118);
+}
+
+
 .container {
 	margin: auto;
 	padding-top: 30px; /* header height */
@@ -54,7 +62,14 @@ footer li {
 }
 img {
 	width: 100%;
+
 }
+
+img.resize{
+	width: 50%
+}
+
+
 article {
 	
 	padding: 30px 70px 200px 70px;
@@ -62,6 +77,10 @@ article {
 
 article p{
 	margin-bottom: 30pt;
+}
+
+details{
+	margin-bottom:20px;
 }
 
 h1{
