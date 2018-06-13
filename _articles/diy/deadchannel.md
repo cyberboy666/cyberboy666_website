@@ -42,7 +42,7 @@ we decided on 6 teevees in total, (striking a balance between visual impact, and
 
 ![deadchannelexample](/images/diy/deadchannel/deadchannel-04.png)
 
-[picture of switches]
+![deadchannelexample](/images/diy/deadchannel/deadchannel-09.jpg)
 
 the first mod we did was installing two (DPDT) switches per tv for horizontal and vertical flips. This exploits a [well documented] quirk of analog displays, simply flipping the wires to the deflection coil directly impacts the direction the picture is scanned. (interesting since the equivalent for digital is still quite processor heavy )
 
@@ -60,7 +60,7 @@ although possible to connect via cables from a sound board at a show, we found i
 
 ### custom signal switcher
 
-[picture of switcher]
+![deadchannelexample](/images/diy/deadchannel/deadchannel-10.jpg)
 
 to allow real time control over the teevee stack we wired up a custom signal switcher which allows each tv to be torn in/out of sync and continuos control over the levels sent to the electromagnets.
 

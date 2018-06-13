@@ -28,6 +28,8 @@ more examples of the kind of video bends exposed can be seen in this video :
 ![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-04.png)
 ![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-05.png)
 ![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-06.png)
+![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-02.jpg)
+![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-03.jpg)
 
 ### finding bend points
 
