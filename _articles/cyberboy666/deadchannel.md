@@ -11,7 +11,7 @@ more info about this installation at its [project page]
 
 [![image][deadchannelimage]][project page]
 
-[project page]: {{site.url}} /diy/deadchannel
+[project page]: {{site.url}}/diy/deadchannel
 [deadchannelimage]: /images/diy/deadchannel-01.png
 
 

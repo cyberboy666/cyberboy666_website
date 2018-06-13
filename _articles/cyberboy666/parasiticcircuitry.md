@@ -11,5 +11,5 @@ more info about this installation at its [project page]
 
 [![image][image]][project page]
 
-[project page]: {{site.url}} /diy/parasiticcircuitry
+[project page]: {{site.url}}/diy/parasiticcircuitry
 [image]: /images/diy/parasiticcircuitry.jpg

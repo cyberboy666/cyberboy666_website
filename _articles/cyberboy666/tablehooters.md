@@ -11,5 +11,5 @@ more info about this at the [tableh00ters] subsite
 
 [![image][tablehooters]][tableh00ters]
 
-[tableh00ters]: {{site.url}} /tablehooters
+[tableh00ters]: {{site.url}}/tablehooters
 [tablehooters]: /images/tablehooters/hooter1.jpg

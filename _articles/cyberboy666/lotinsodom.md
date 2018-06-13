@@ -11,5 +11,5 @@ more info about this at the [WEMAKEPORN] subsite
 
 [![image][lotinsodom]][WEMAKEPORN]
 
-[WEMAKEPORN]: {{site.url}} /wemakeporn
+[WEMAKEPORN]: {{site.url}}/wemakeporn
 [lotinsodom]: /images/wemakeporn/wemakeporn2.jpg

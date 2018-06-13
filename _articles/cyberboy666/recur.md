@@ -11,5 +11,5 @@ more info about this at the [r_e_c_u_r] subsite
 
 [![image][recur]][r_e_c_u_r]
 
-[r_e_c_u_r]: {{site.url}} /recur
+[r_e_c_u_r]: {{site.url}}/recur
 [recur]: /images/recur/recur-splash.png

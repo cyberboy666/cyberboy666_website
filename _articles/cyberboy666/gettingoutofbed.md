@@ -11,5 +11,5 @@ more info about this at the [WEMAKEPORN] subsite
 
 [![image][outofbed]][WEMAKEPORN]
 
-[WEMAKEPORN]: {{site.url}} /wemakeporn
+[WEMAKEPORN]: {{site.url}}/wemakeporn
 [outofbed]: /images/wemakeporn/gettingoutofbed2.jpg
