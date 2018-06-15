@@ -20,9 +20,9 @@ a [playlist] of full sets from the basement can be viewed thanks to Matts gopro
 
 [playlist]: https://www.youtube.com/playlist?list=PLpozfyWCn14xUrAFsitKdeCi-Ww87Cj0h
 
-<iframe src="https://www.youtube.com/embed/BJOSR_BVYjk" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/BJOSR_BVYjk" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-<iframe src="https://www.youtube.com/embed/I513uethrWU" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/I513uethrWU" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ![image](/images/cyberboy666/backyard1-6.jpg)
 ![image](/images/cyberboy666/backyard1-7.jpg)

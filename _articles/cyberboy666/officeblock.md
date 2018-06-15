@@ -9,7 +9,7 @@ layout: page
 
 121 curates a number of popular dance party events in Wellington.
 
-<iframe src="https://www.youtube.com/embed/YnKRX9LQh7s" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/YnKRX9LQh7s" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
 ![image](/images/cyberboy666/officeblock.jpg)

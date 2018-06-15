@@ -11,7 +11,7 @@ layout: page
 
 An interactive video-game glitch-art installation
 
-<iframe src="https://player.vimeo.com/video/232211856?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio43"><iframe id="video-box" src="https://player.vimeo.com/video/232211856?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ## details
 
@@ -21,7 +21,7 @@ this installation takes a number of "bend points" on a playstation One's graphic
 
 more examples of the kind of video bends exposed can be seen in this video : 
 
-<iframe src="https://player.vimeo.com/video/185451870?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio43"><iframe id="video-box" src="https://player.vimeo.com/video/185451870?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
 ![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-03.png)

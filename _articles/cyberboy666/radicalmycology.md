@@ -11,7 +11,7 @@ layout: page
 
 this video contains the demo recording:
 
-<iframe src="https://player.vimeo.com/video/227714270?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio43"><iframe id="video-box" src="https://player.vimeo.com/video/227714270?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 for a more polished audio recording checkout the Radical Mycology soundcloud :
 

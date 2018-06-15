@@ -7,7 +7,7 @@ layout: page
 
 ## [ {{page.title}} ]({{page.url}})
 
-<iframe src="https://player.vimeo.com/video/163121953?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio43"><iframe id="video-box" src="https://player.vimeo.com/video/163121953?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 _a live hardware visual set_
 

@@ -14,7 +14,7 @@ liquid dreams, electric noodles and the systematic repressions imposed by waking
 
 a short film by Tim Caldwell and Catherine Ireland. 5:03 minutes
 
-<iframe src="https://player.vimeo.com/video/241358856?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio43"><iframe id="video-box" src="https://player.vimeo.com/video/241358856?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
 clarity in abstraction.

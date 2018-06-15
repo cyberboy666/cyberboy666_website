@@ -6,7 +6,7 @@ permalink: /trashpalace/
 
 # TRASHPALACE
 
-<iframe src="https://player.vimeo.com/video/186131103?title=0&byline=0&portrait=0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio43"><iframe  id="video-box" src="https://player.vimeo.com/video/186131103?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 TRASHPALACE is a meetup to celebrate trash, camp, cult, surreal, bizarre, incredibly strange, outsider, experimental, avant-garde, exploitation and genre cinema.
 

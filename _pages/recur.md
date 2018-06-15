@@ -11,7 +11,7 @@ permalink: /recur/
 
 an open, diy video sampler
 
-<iframe src="https://www.youtube.com/embed/FKKDr7pLpp0" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/FKKDr7pLpp0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 a diy project to create dynamic video hardware for seamless sample playback and recording
 

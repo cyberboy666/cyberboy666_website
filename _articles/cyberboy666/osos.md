@@ -9,7 +9,7 @@ layout: page
 
 [OS//OS] - Open Source, Open Society Conference After Party ! 
 
-<iframe src="https://www.youtube.com/embed/aIxbJkC9M8k" width="640" height="468" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/aIxbJkC9M8k" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 [OS//OS]: http://www.opensourceopensociety.com/
 
