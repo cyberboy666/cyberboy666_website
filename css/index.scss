@@ -1,50 +1,69 @@
 ---
 ---
 
+$header-height: 30px;
+$font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
 }
+
 html {
 	background-color: black;
 }
+
 header, footer {
 	background-color: black;
 	color: white;
 	width: 100%;
-	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+	font-family: $font-family;
 	font-size: 9pt;
 	font-weight: lighter;
 	letter-spacing: 6px;
 	text-align: center;
 	z-index: 1000;
-	
-}
-header {
-	position: fixed;
 }
 
+header {
+	position: fixed;
+	height: $header-height;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
 
 footer li {
 	display: inline;
 }
-a:link {
-	color: hotpink
-}
-a:visited {
-    color: rgb(255, 105, 118);
-}
 
+a {
+	&:link {
+	color: hotpink
+	}
+
+	&:visited {
+	color: rgb(255, 105, 118);
+	}
+
+	&#img{
+		width: 100%;
+		&:hover + .index-footer {
+			bottom: 0%;
+			opacity: 1;
+		}
+	}
+}
 
 .container {
 	margin: auto;
-	padding-top: 30px; /* header height */
-	width: 70%;
+	padding-top: $header-height;
+	max-width: 1000px;
 	height: 100%;
 	background-color: #1c1f24;
 	color: #e5dfc5;
-	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;;
+	font-family: $font-family;
 	font-size: 13pt;
 	line-height: 18pt;
 }
@@ -56,20 +75,19 @@ a:visited {
 img {
 	width: 100%;
 
+	resize{
+		width: 50%
+	}
 }
-
-img.resize{
-	width: 50%
-}
-
 
 article {
-	
 	padding: 30px 70px 200px 70px;
-}
-
-article p{
-	margin-bottom: 30pt;
+	p {
+		margin-bottom: 30pt;
+	}
+	li {
+		margin: 10px 0px 10px 50px;
+	}
 }
 
 details{
@@ -86,125 +104,38 @@ h2, h3, h4, h5, h6{
 	margin-top:20px;
 	margin-bottom:20px;
   }
-article li {
-	margin: 10px 0px 10px 50px;
-}
 
 .page {
 	float: left;
 	width: 100vw;
 	height: 100vh;
   }
-  
-  /* for index */
 
-  .main-body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 100wh;
-	height: 100vh;
-  }
+.main-body {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100wh;
+height: 100vh;
+}
 
-  .main {
-	  position: absolute;
-  }
+.main {
+	position: absolute;
 
-  .main section {
+	section {
+		width: 100wh;
+		height: 100vh;
+	}
+}
 
-	width: 100wh;
-	height: 100vh;
-  }
-  
-   .img-container {
-	position: relative;
-	display: flex;
-	align-items: center;
-	width: 100wh;
-	height: 100vh;
-	}
-
-	.link-box {
-		float: left;
-		position: absolute;
-	}
-	.link-box#diy{
-		width: 50%;
-		height: 20%;
-		top: 40%;
-		left: 25%;
-	}
-	.link-box#diy{
-		width: 50%;
-		height: 20%;
-		top: 40%;
-		left: 25%;
-	}
-	.link-box#diy{
-		width: 50%;
-		height: 20%;
-		top: 40%;
-		left: 25%;
-	}
-	.link-box#recur{
-		width: 40%;
-		height: 20%;
-		top: 70%;
-		left: 30%;
-	}
-	.link-box#trashpalace{
-		width: 100%;
-		height: 55%;
-		top: 20%;
-		left: 0%;
-	}
-	.link-box#sybersex{
-		width: 60%;
-		height: 35%;
-		top: 25%;
-		left: 20%;
-	}
-	.link-box#tablehooters{
-		width: 40%;
-		height: 15%;
-		top: 80%;
-		left: 30%;
-	}
-	.link-box#wemakeporn{
-		width: 25%;
-		height: 40%;
-		top: 30%;
-		left: 70%;
-	}
-	.link-box#irregular{
-		width: 35%;
-		height: 40%;
-		top: 50%;
-		left: 65%;
-	}
-	.link-box#cyberboy666{
-		width: 35%;
-		height: 70%;
-		top: 20%;
-		left: 35%;
-	}
-
-	.link-box:hover + .index-footer {
-		bottom: 0%;
-		opacity: 1;
-	}
-
-
-	.index-footer {
-		position: absolute;
-		left: 0;
-		bottom: -70px;
-		background-color: black;
-		height: 50px;
-		width: 100%;
-		overflow: hidden;
-		opacity: 0;
-		transition: bottom 1.5s, opacity 1.5s;
-	}
-
-
+.index-footer {
+	position: absolute;
+	left: 0;
+	bottom: -70px;
+	background-color: black;
+	height: 50px;
+	width: 100%;
+	overflow: hidden;
+	opacity: 0;
+	transition: bottom 1.5s, opacity 1.5s;
+}
