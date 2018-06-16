@@ -11,5 +11,5 @@ more info about this at the [TRASHPALACE] subsite
 
 [![image][blackmass]][TRASHPALACE]
 
-[TRASHPALACE]: {{site.url}} /trashpalace
+[TRASHPALACE]: {{site.url}}/trashpalace
 [blackmass]: /images/trashpalace/TPBLACKMASS-0.jpg

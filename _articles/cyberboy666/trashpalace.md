@@ -7,9 +7,9 @@ layout: page
 
 ## [ {{page.title}} ]({{page.url}})
 
-more info about this at the [TRASHPALACE] subsite
+more info about this at the [TRASHP] subsite
 
-[![image][trashpalace]][TRASHPALACE]
+[![image][trashpalace]][TRASHP]
 
-[TRASHPALACE]: {{site.url}}/trashpalace
+[TRASHP]: {{site.url}}/trashpalace
 [trashpalace]: /images/trashpalace-banner.jpg

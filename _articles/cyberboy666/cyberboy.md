@@ -15,6 +15,8 @@ Ian Matthews and i started poking around (carefully) inside a vhs player. i made
 
 <div class="video-box" id="ratio43"><iframe id="video-box" src="https://player.vimeo.com/video/152856019?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
+![image](/images/cyberboy666/cyberboy1.jpg)
+
 ### exploration \#2 (corporate sponsorship)
 
 video made with a simple diy vga-synth i started building as part of a work hackathon:

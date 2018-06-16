@@ -33,7 +33,20 @@ more examples of the kind of video bends exposed can be seen in this video :
 
 ### finding bend points
 
+started by opening up the playstation and poking around a bit. was interested to find a mod chip already added to the playstation board :
 
+![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-12.jpg)
+
+a smaller ic below the main logic chip proved to be most interesting for video bends (will add name and pictures of it next time i am inside the ps1)
+
+i cut out the bottom around this ic to access the bends easier. from here i could identify the points of interest : (will add my notes for these here when i find them)
+
+![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-09.jpg)
+
+ with leos help we soldered fine copper wires from these points to a strip board that we glued to the bottom. now the bend points can be connected without poking inside the playstation. 
+
+ ![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-11.jpg)
+![parasiticcircuitry](/images/diy/parasiticcircuitry/parasiticcircuitry-10.jpg)
 
 ### programmatically switching glitches
 

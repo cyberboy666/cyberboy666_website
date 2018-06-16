@@ -19,5 +19,6 @@ _a no-budget cyberjunk experiment_
 ![image](/images/cyberboy666/mindzone5.png)
 ![image](/images/cyberboy666/mindzone6.png)
 ![image](/images/cyberboy666/mindzone7.png)
+![image](/images/cyberboy666/mindzone10.png)
 
 

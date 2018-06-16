@@ -23,4 +23,5 @@ using video collages created by some of my favorite films and remixed as video-a
 ![image](/images/cyberboy666/pleasuredome8.png)
 ![image](/images/cyberboy666/pleasuredome9.png)
 ![image](/images/cyberboy666/pleasuredome10.png)
+![image](/images/cyberboy666/pleasuredome10.jpg)
 

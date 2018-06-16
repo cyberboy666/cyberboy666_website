@@ -11,6 +11,9 @@ layout: page
 
 <div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/aIxbJkC9M8k" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
+![image](/images/cyberboy666/osos1.jpg)
+![image](/images/cyberboy666/osos2.jpg)
+
 [OS//OS]: http://www.opensourceopensociety.com/
 
 

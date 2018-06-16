@@ -12,6 +12,7 @@ layout: page
 <div class="video-box" id="ratio169"><iframe id="video-box" src="https://www.youtube.com/embed/YnKRX9LQh7s" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
+![image](/images/cyberboy666/officeblock0.jpg)
 ![image](/images/cyberboy666/officeblock.jpg)
 ![image](/images/cyberboy666/officeblock1.jpg)
 ![image](/images/cyberboy666/officeblock2.jpg)
