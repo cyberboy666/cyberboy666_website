@@ -26,7 +26,7 @@ i value the quality of a djs selection over the quality of their gear. take ever
 
 ## modifications and techniques
 
-this is a woefully neglected work in progress. i hope to put some time into it soon
+this is a work in progress. i hope to put some time into it soon
 
 ### vary cassette playback speed for beat matching
 
@@ -44,7 +44,7 @@ i have had little time for experimenting with creating dance music lately althou
 
 a rough demo track can be heard here:
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=835143832/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://cyberboy666user43368831.bandcamp.com/track/lyquidkrystal-demo">LYQUIDKRYSTAL (demo) by SYB3RS3X</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3436577096/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://cyberboy666user43368831.bandcamp.com/track/m3m0rybank-demo">M3M0RYBANK (demo) by SYB3RS3X</a></iframe>
 
 watch this space for (self released, cassette tape) debut ep :
 
