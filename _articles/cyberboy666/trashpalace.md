@@ -11,5 +11,5 @@ more info about this at the [TRASHPALACE] subsite
 
 [![image][trashpalace]][TRASHP]
 
-[TRASHP]: {{site.url}}/trashpalace
+[TRASHPALACE]: {{site.url}}/trashpalace
 [trashpalace]: /images/trashpalace-banner.jpg
