@@ -6,7 +6,7 @@ permalink: /wemakeporn/
 
 # WEMAKEPORN
 
-WEMAKEPORN is film production, audio composition and creative collaboration between Tim Caldwell and Catherine Ireland
+WEMAKEPORN is film production, audio composition and creative collaboration with Tim Caldwell and friends.  (previously working Catherine Ireland)
 
 ## Getting Out of Bed (2017)
 

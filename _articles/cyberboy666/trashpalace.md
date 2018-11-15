@@ -7,7 +7,7 @@ layout: page
 
 ## [ {{page.title}} ]({{page.url}})
 
-more info about this at the [TRASHP] subsite
+more info about this at the [TRASHPALACE] subsite
 
 [![image][trashpalace]][TRASHP]
 

@@ -22,6 +22,8 @@ i have archived each screening here along with promo text and images from the TR
 
 special thanks to Scumbalinas [blog] and [letterboxd lists] for inspiring much of the content and my own taste for trash
 
+click on each entry for text and posters
+
 ## TRASHPALACE2017 LINEUP
 
 [blog]: http://atomiccaravan.blogspot.co.nz/

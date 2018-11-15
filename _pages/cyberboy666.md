@@ -15,7 +15,7 @@ My interests include experimental video-art and live video performances, DIY ele
 
 the _cyberboy666_ pseudonym primarily applies to my experimental video-art project created to explore ecstasy, confusion and decay through lo-fi DIY circuits, discarded VHS and misused video hardware.
 
-
+click on each entry for pictures, videos and more info
 
 ## art projects timeline
 
