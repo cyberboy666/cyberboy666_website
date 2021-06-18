@@ -8,9 +8,15 @@ permalink: /trashpalace/
 
 <div class="video-box" id="ratio43"><iframe  id="video-box" src="https://player.vimeo.com/video/186131103?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-TRASHPALACE is a meetup to celebrate trash, camp, cult, surreal, bizarre, incredibly strange, outsider, experimental, avant-garde, exploitation and genre cinema.
+a weekly celebration of outsider, strange, experimental and cult cinema
 
-## TRASHPALACE2017
+## __NOW PLAYING__
+
+[TRASHPALACE_2021](https://underscores.shop/trashpalace/) is now running every tuesday night at TheBakery in Brooklyn, Wellington - visit the link to see whats on this week / subscribe to the mailing list for email notifications (the films from this run will be archived below too at some point)
+
+# ARCHIVE
+
+## TRASHPALACE_2017
 
 in 2017 we hosted weekly screenings from february through to december. 
 
