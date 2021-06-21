@@ -10,5 +10,5 @@ in the wake of physical isolation from first covid lockdowns some friends ( [Pal
 
 in addition to the (discourse) forum we also set up a [chatroom](chat.scanlines.xyz), [streaming server](https://stream.scanlines.xyz/) and [video hosting platform](https://videos.scanlines.xyz/) for this community
 
-![image][/images/cyberboy666/scanlines_image.jpg]
-![image][/images/cyberboy666/scanlines_image2.png]
+![image](/images/cyberboy666/scanlines_image.jpg)
+![image](/images/cyberboy666/scanlines_image2.png)

@@ -10,6 +10,6 @@ summary: technical infrastructure and support for VIDICON festival online
 
 [scanlines.xyz](https://scanlines.xyz) provided infrastructure to help power this festival, so i was busy in the background settings things up. It’s so rewarding to see it all come together - thanks [ed](https://www.instagram.com/edwerk/) and everyone involved
 
-![image][/images/cyberboy666/vidicon2020_1.png]
-![image][/images/cyberboy666/vidicon2020_1.jpg]
-![image][/images/cyberboy666/vidicon2020_1.png]
+![image](/images/cyberboy666/vidicon2020_1.png)
+![image](/images/cyberboy666/vidicon2020_1.jpg)
+![image](/images/cyberboy666/vidicon2020_1.png)

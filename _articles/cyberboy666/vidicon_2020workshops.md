@@ -14,9 +14,9 @@ the first was a mail-in video circuit building workshop around the _two_comparat
 
 the second workshop was teaching about __kicad__ the open source pcb routing software - _Intro to KiCad: A hands on interactive workshop with cyberboy666 : Learn how to design and create printed circuit boards using the free and open source program Kicad. No prior experience needed! rsvp required as space is limited._
 
-![image][/images/cyberboy666/vidicon2020workshop5.jpg]
-![image][/images/cyberboy666/vidicon2020workshop2.jpg]
-![image][/images/cyberboy666/vidicon2020workshop1.jpg]
-![image][/images/cyberboy666/vidicon2020workshop4.jpg]
-![image][/images/cyberboy666/vidicon2020workshop3.jpg]
+![image](/images/cyberboy666/vidicon2020workshop5.jpg)
+![image](/images/cyberboy666/vidicon2020workshop2.jpg)
+![image](/images/cyberboy666/vidicon2020workshop1.jpg)
+![image](/images/cyberboy666/vidicon2020workshop4.jpg)
+![image](/images/cyberboy666/vidicon2020workshop3.jpg)
 

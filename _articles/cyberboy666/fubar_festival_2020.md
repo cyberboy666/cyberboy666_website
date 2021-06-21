@@ -12,8 +12,8 @@ My new video piece _~ gezeiten ~_ (a collaboration with berlin based producer [a
 
 I also gave a lecture about the joys and struggles of performing with real-time analog video corruption and a live demo of a new video-circuit SYNC_OPE i have been working on with Gael Jaton to address this.
 
-![image][/images/cyberboy666/fubar2020_1.jpg]
-![image][/images/cyberboy666/fubar2020_2.jpg]
-![image][/images/cyberboy666/fubar2020_3.jpg]
-![image][/images/cyberboy666/fubar2020_4.jpg]
-![image][/images/cyberboy666/fubar2020_5.jpg]
+![image](/images/cyberboy666/fubar2020_1.jpg)
+![image](/images/cyberboy666/fubar2020_2.jpg)
+![image](/images/cyberboy666/fubar2020_3.jpg)
+![image](/images/cyberboy666/fubar2020_4.jpg)
+![image](/images/cyberboy666/fubar2020_5.jpg)

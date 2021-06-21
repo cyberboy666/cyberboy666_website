@@ -10,8 +10,8 @@ spent some time with Guergana ( [ichi_raramuri](https://www.instagram.com/ichi_r
 
 although our scheduled soldering workshop was cancelled due to sandstorm+power outage, i did get to give a talk and demo about video-art ( _intro to video-art making instruments_ ) and perform with new friends including [phillip](https://phillipstearns.com/) and [kyoka](https://www.instagram.com/kyoka.sound/)
 
-![image][/images/cyberboy666/mars1.jpg]
-![image][/images/cyberboy666/mars2.jpg]
+![image](/images/cyberboy666/mars1.jpg)
+![image](/images/cyberboy666/mars2.jpg)
 
 
 
