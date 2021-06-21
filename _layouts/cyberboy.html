@@ -6,7 +6,7 @@ layout: page
 
 {% assign articles = site.articles | sort: 'month' %}
 
-	{% for item in articles %}
+	{% for item in articles reversed %}
 		{% if item.type == page.type %}
                 
                 <details>
