@@ -10,7 +10,7 @@ Guergana Tzatchkova ( [ichi_raramuri](https://www.instagram.com/ichi_raramuri/) 
 
 ![image](/images/cyberboy666/coaxial.png)
 ![image](/images/cyberboy666/coaxial4.jpeg)
-![image](/images/cyberboy666/coaxial5.jpeg)
+![image](/images/cyberboy666/coaxial5.png)
 
 
 

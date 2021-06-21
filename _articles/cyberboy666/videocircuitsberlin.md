@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2019-03
-summary: co-founder and organiser for VideoCircuitsBerlin, Berlin - a local community meet-up
+summary: co-founder and organiser for VideoCircuitsBerlin - a local community meet-up
 layout: page
 ---
 

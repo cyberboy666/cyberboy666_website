@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2020-10
-summary: Lecture and Exhibit at Fu:bar Festival 2020
+summary: Lecture and Exhibit at Fu:bar Festival 2020, online
 ---
 
 ## [ {{page.title}} ]({{page.url}})
