@@ -1,7 +1,7 @@
 ---
 type: cyberboy666
 month: 2021-05
-summary: live av performances at TheBakery, Wellington, NZ
+summary: live av performances at the bakery, Wellington, NZ
 ---
 
 ## [ {{page.title}} ]({{page.url}})
