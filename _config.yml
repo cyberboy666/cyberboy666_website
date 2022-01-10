@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "http://cyberboy666.com"
 #url: "localhost:4000"
-github_username:  langolierz
+github_username:  cyberboy666
 
 
 diy-section-image: /images/diy-poster.png
