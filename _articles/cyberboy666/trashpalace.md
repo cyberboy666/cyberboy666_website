@@ -9,7 +9,7 @@ layout: page
 
 more info about this at the [TRASHPALACE] subsite
 
-[![image][trashpalace]][TRASHP]
+[![image][trashpalace]][TRASHPALACE]
 
 [TRASHPALACE]: {{site.url}}/trashpalace
 [trashpalace]: /images/trashpalace-banner.jpg
