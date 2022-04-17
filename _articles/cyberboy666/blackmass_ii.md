@@ -13,7 +13,7 @@ every year some of us make a pilgrimage to avondale's hollywood theatre for the 
 for those who missed this procession, for those who even our weekly tuesday penance won't atone them - join us for a service through the darkest hours: welcome to BLACKMASS 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TxT_Q8rkj3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/TxT_Q8rkj3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![image](/images/cyberboy666/blackmass_00.jpg)
 ![image](/images/cyberboy666/blackmass_01.jpg)
