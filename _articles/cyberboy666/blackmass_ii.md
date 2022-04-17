@@ -8,12 +8,12 @@ layout: page
 ## [ {{page.title}} ]({{page.url}})
 
 BLACKMASS is an annual all night 12-hour movie marathon special event hosted by the film club TRASHPALACE
-☥☥☥☥☥☥☥☥
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/TxT_Q8rkj3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 every year some of us make a pilgrimage to avondale's hollywood theatre for the incredibly strange 24-hour movie marathon
 for those who missed this procession, for those who even our weekly tuesday penance won't atone them - join us for a service through the darkest hours: welcome to BLACKMASS 
 
-
-<iframe width="100%" src="https://www.youtube.com/embed/TxT_Q8rkj3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![image](/images/cyberboy666/blackmass_00.jpg)
 ![image](/images/cyberboy666/blackmass_01.jpg)

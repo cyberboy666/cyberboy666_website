@@ -13,4 +13,4 @@ I created poster images and video trailers for a night of experimental dance mus
 ![image](/images/cyberboy666/lat_mov.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8RvLf1JSoSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/8RvLf1JSoSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
