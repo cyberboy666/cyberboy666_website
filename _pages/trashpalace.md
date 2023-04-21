@@ -12,25 +12,11 @@ a weekly celebration of outsider, strange, experimental and cult cinema
 
 ## __NOW PLAYING__
 
-[TRASHPALACE_2021](https://underscores.shop/trashpalace/) is now running every tuesday night at TheBakery in Brooklyn, Wellington - visit the link to see whats on this week / subscribe to the mailing list for email notifications (the films from this run will be archived below too at some point)
+[trashpalace.tv](https://trashpalace.tv) is now live! physical screenings are every tuesday night in karori, wellington - and if you cant make that we are now also streaming each programme online for exactly 7 days - visit the link to see whats on this week and to find out how to get notified !
 
 # ARCHIVE
-
-## TRASHPALACE_2017
-
-in 2017 we hosted weekly screenings from february through to december. 
-
-each screening started with a 30min WARMUP film, usually ambient/background vibes (sometimes with the soundtrack or atmospheric background music) while people arrived and got settled. this was followed by lights out, a trailer reel and then the FEATURE PRESENTATION
-
-we sometimes showed short films before the feature, a few double features were thrown in the mix for special occasions and one all-night marathon to get us through the winter.
-
-i have archived each screening here along with promo text and images from the TRASHPALACE facebook group. although the text is my own (unless in quotes), some copy/paste phrases from online reviews was necessary to capture and hype films i hadnt seen - thank you if your words helped me share these awesome films.
-
-special thanks to Scumbalinas [blog] and [letterboxd lists] for inspiring much of the content and my own taste for trash
 
 click on each entry for text and posters
 
 ## TRASHPALACE2017 LINEUP
 
-[blog]: http://atomiccaravan.blogspot.co.nz/
-[letterboxd lists]: https://letterboxd.com/scumbalina/lists/
