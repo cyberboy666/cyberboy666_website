@@ -4,9 +4,7 @@ title: cyberboy666 & user43368831
 email: langolierz@gmail.com
 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  art / tech portfolio and archive for creative works by cyberboy666
 baseurl: ""
 url: "http://cyberboy666.com"
 #url: "localhost:4000"
@@ -17,12 +15,14 @@ diy-section-image: /images/diy-poster.png
 diy-banner-image: /images/diy-banner.jpg
 recur-section-image: /images/recur-poster.png
 recur-banner-image: /images/recur-banner.jpg
-polyphaseportal-section-image: /images/polyphaseportal-poster.png
+polyphaseportal-section-image: /images/polyphaseportal-poster.jpg
 polyphaseportal-banner-image: /images/polyphaseportal-banner.jpg
 scanlines-section-image: /images/scanlines-poster.jpg
 scanlines-banner-image: /images/scanlines-banner.jpg
 underscores-section-image: /images/underscores-poster.jpg
 underscores-banner-image: /images/underscores-banner.jpg
+lateralmovement-section-image: /images/lateralmovement-poster.png
+lateralmovement-banner-image: /images/lateralmovement-banner.png
 trashpalace-section-image: /images/trashpalace-poster.png
 trashpalace-banner-image: /images/trashpalace-banner.jpg
 sybersex-section-image: /images/sybersex-poster.png

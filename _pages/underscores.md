@@ -4,7 +4,7 @@ poster:
 banner:
 type: underscores
 layout: page
-permalink: /scanlines/
+permalink: /underscores/
 ---
 
 # [underscores.shop](underscores.shop)
