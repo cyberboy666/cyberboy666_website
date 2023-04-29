@@ -1,6 +1,5 @@
----
----
-
+--- 
+--- 
 $header-height: 30px;
 $font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 
@@ -14,14 +13,14 @@ html {
 	background-color: black;
 }
 
-header, footer {
+header,footer {
 	background-color: black;
 	color: white;
 	width: 100%;
 	font-family: $font-family;
-	font-size: 9pt;
+	font-size: 13pt;
 	font-weight: lighter;
-	letter-spacing: 6px;
+	letter-spacing: 4px;
 	text-align: center;
 	z-index: 1000;
 }
@@ -29,9 +28,9 @@ header, footer {
 header {
 	position: fixed;
 	height: $header-height;
-	display:flex;
-	justify-content:center;
-	align-items:center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 footer li {
@@ -40,25 +39,84 @@ footer li {
 
 a {
 	&:link {
-	color: hotpink
+		color: hotpink
 	}
 
 	&:visited {
-	color: rgb(255, 105, 118);
+		color: rgb(255, 105, 118);
 	}
 
-	&#img{
+	&#img {
 		width: 100%;
 		vertical-align: middle;
-		&:hover + .index-footer {
-			bottom: 0%;
+		&:hover+.index-footer {
+			bottom: -45px;
+			opacity: 1;
+		}
+
+		&:active+.index-footer {
+			bottom: -45px;
 			opacity: 1;
 		}
 	}
 }
 
-iframe{
-	&#video-box{
+article {
+	padding: 30px 70px 200px 70px;
+
+	p {
+		margin-bottom: 30pt;
+	}
+
+	li {
+		margin: 10px 0px 10px 50px;
+	}
+}
+
+h1 {
+	font-size: 26pt;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+@media all and (max-width: 799px) {
+	a#img {
+		width: 600px;
+		overflow: hidden;
+		transform: scale(1.4);
+	}
+	header,footer {
+		font-size: 11pt;
+	}
+	article {
+		padding: 30px 5px 200px 5px;
+	}
+
+	h1{
+		font-size: 20pt;
+	}
+
+}
+
+@media all and (max-width: 499px) {
+	a#img {
+		width: 600px;
+		overflow: hidden;
+		transform: scale(1.8);
+		// transform: translateZ(0);
+	}
+	header,footer {
+		font-size: 9pt;
+	}
+}
+
+div.index-footer.active {
+	bottom: -45px;
+	opacity: 1;
+}
+
+iframe {
+	&#video-box {
 		position: absolute;
 		width: 100%;
 		height: 100%;
@@ -68,16 +126,18 @@ iframe{
 
 }
 
-.video-box{
+.video-box {
 	width: 100%;
 	position: relative;
-	&#ratio43{
-		padding-top:75%;
+
+	&#ratio43 {
+		padding-top: 75%;
 	}
-	&#ratio169{
-		padding-top:56.25%;
+
+	&#ratio169 {
+		padding-top: 56.25%;
 	}
-	
+
 }
 
 .img-container {
@@ -87,7 +147,11 @@ iframe{
 	align-items: center;
 	width: 100wh;
 	height: 100vh;
-	}
+	position: relative; z-index: 10;
+	border:1px solid transparent;
+	overflow: hidden;
+	
+}
 
 .container {
 	margin: auto;
@@ -100,56 +164,46 @@ iframe{
 	font-size: 13pt;
 	line-height: 18pt;
 }
+
 .section-banner {
 	position: relative;
 	height: 200px;
 	overflow: hidden;
 }
+
 img {
 	width: 100%;
 
-	resize{
+	resize {
 		width: 50%
 	}
 }
 
-article {
-	padding: 30px 70px 200px 70px;
-	p {
-		margin-bottom: 30pt;
-	}
-	li {
-		margin: 10px 0px 10px 50px;
-	}
+details {
+	margin-bottom: 20px;
 }
 
-details{
-	margin-bottom:20px;
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
-
-h1{
-	font-size: 26pt;
-	margin-top:20px;
-	margin-bottom:40px;
-}
-
-h2, h3, h4, h5, h6{
-	margin-top:20px;
-	margin-bottom:20px;
-  }
 
 .page {
 	float: left;
 	width: 100vw;
 	height: 100vh;
-  }
+}
 
 .main-body {
-display: flex;
-justify-content: center;
-align-items: center;
-width: 100wh;
-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100wh;
+	height: 100vh;
 }
 
 .main {
@@ -164,11 +218,11 @@ height: 100vh;
 .index-footer {
 	position: absolute;
 	left: 0;
-	bottom: -70px;
+	bottom: -120px;
 	background-color: black;
-	height: 50px;
+	height: 100px;
 	width: 100%;
 	overflow: hidden;
 	opacity: 0;
-	transition: bottom 1.5s, opacity 1.5s;
+	transition: bottom 2s, opacity 2s;
 }

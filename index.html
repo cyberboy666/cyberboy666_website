@@ -2,9 +2,14 @@
 ---
 <!doctype html>
 <html>
-	<head>
+
+<head>
 
 	{% include head.html %}
+
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
 
 	<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
 	<script type="text/javascript" src="./scripts/jquery.onepage-scroll.js"></script>
@@ -12,80 +17,95 @@
 	<link href='./css/component.css' rel='stylesheet' type='text/css'>
 
 	<script>
-	  $(document).ready(function(){
-      $(".main").onepage_scroll({
-      	dotstyle: "scaleup",
-        sectionContainer: "section",
-		keyboard: true,
-        responsiveFallback: 1000,
-        loop: true
-      });
+		$(document).ready(function () {
+			$(".main").onepage_scroll({
+				dotstyle: "scaleup",
+				sectionContainer: "section",
+				keyboard: true,
+				responsiveFallback: 1000,
+				loop: true
+			});
 		});
-
 	</script>
-	
 </head>
+
 <body>
 
 	{% include header.html %}
 
-  <div class="main-body">
-	  <div class="main">
+	<div class="main-body">
+		<div class="main">
 			<section id="cyberboy666">
 				<div class="img-container">
-					
+
 					<a id="img" href="{{ site.url }}/cyberboy666/">
-						<img src= {{ site.cyberboy666-section-image }} >
+						<img src={{ site.cyberboy666-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>bent video // salvaged cyberjunk // dead media // found footage // VHS trash</footer></div>
+					<div class="index-footer">
+						<footer>video artist // tool-maker // curator // educator // community builder</footer>
+					</div>
 				</div>
 			</section>
 			<section id="underscores">
-				<div class="img-container">	
+				<div class="img-container">
 					<a id="img" href="{{ site.url }}/underscores/">
-						<img src= {{ site.underscores-section-image }} >
+						<img src={{ site.underscores-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>for research and distribution of accessible open-source video-art making instruments</footer></div>
+					<div class="index-footer">
+						<footer>for research and distribution of accessible open-source video-art making instruments
+						</footer>
+					</div>
 				</div>
 			</section>
 			<section id="trashpalace">
 				<div class="img-container">
 					<a id="img" href="{{ site.url }}/trashpalace/">
-						<img src= {{ site.trashpalace-section-image }} >
+						<img src={{ site.trashpalace-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>a weekly celebration of outsider, strange, experimental and cult cinema</footer></div>
+					<div class="index-footer">
+						<footer>a weekly celebration of outsider, strange, experimental and cult cinema</footer>
+					</div>
 				</div>
 			</section>
 			<section id="scanlines">
-				<div class="img-container">	
+				<div class="img-container">
 					<a id="img" href="{{ site.url }}/scanlines/">
-						<img src= {{ site.scanlines-section-image }} >
+						<img src={{ site.scanlines-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>online community for diy a/v &electronic media-art</footer></div>
+					<div class="index-footer">
+						<footer>online community for diy a/v & electronic media-art</footer>
+					</div>
 				</div>
 			</section>
 			<section id="polyphaseportal">
-				<div class="img-container">	
+				<div class="img-container">
 					<a id="img" href="{{ site.url }}/polyphaseportal/">
-						<img src= {{ site.polyphaseportal-section-image }} >
+						<img src={{ site.polyphaseportal-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>educational focused online space & media-art collective</footer></div>
+					<div class="index-footer">
+						<footer>educational focused online space & media-art collective</footer>
+					</div>
 				</div>
 			</section>
 			<section id="recur">
-				<div class="img-container">	
+				<div class="img-container">
 					<a id="img" href="{{ site.url }}/recur/">
-						<img src= {{ site.recur-section-image }} >
+						<img src={{ site.recur-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>an open, diy video sampler</footer></div>
+					<div class="index-footer">
+						<footer>an open, diy video sampler</footer>
+					</div>
 				</div>
 			</section>
 			<section id="lateralmovement">
-				<div class="img-container">	
+				<div class="img-container">
 					<a id="img" href="{{ site.url }}/lateralmovement/">
-						<img src= {{ site.lateralmovement-section-image }} >
+						<img src={{ site.lateralmovement-section-image }}>
 					</a>
-					<div class="index-footer">	<footer>a semi-irregular club night showcasing left-field & experimental dance music and light</footer></div>
+					<div class="index-footer">
+						<footer>a semi-irregular club night showcasing left-field & experimental dance music and light
+						</footer>
+					</div>
 				</div>
 			</section>
 			<!-- <section id="diy">
@@ -106,12 +126,14 @@
 					</div>
 			</section> -->
 			<section id="tablehooters">
-					<div class="img-container">
-						<a id="img" href="{{ site.url }}/tablehooters/">
-							<img src= {{ site.tablehooters-section-image }} >
-						</a>
-						<div class="index-footer">	<footer>a toy-keyboard group meditation session</footer></div>
+				<div class="img-container">
+					<a id="img" href="{{ site.url }}/tablehooters/">
+						<img src={{ site.tablehooters-section-image }}>
+					</a>
+					<div class="index-footer">
+						<footer>a toy-keyboard group meditation session</footer>
 					</div>
+				</div>
 			</section>
 			<!-- <section id="wemakeporn">
 					<div class="img-container">
@@ -132,11 +154,35 @@
 				</div>
 			</section> -->
 
-				
-    		</div>
-			
-		  </div>
-		  
 
-	</body>
+		</div>
+
+	</div>
+
+	<script>
+		const config = {
+			root: null, // Sets the framing element to the viewport
+			rootMargin: "0px",
+			threshold: 0.5
+		}
+
+		const images = document.querySelectorAll('.img-container');
+
+		console.log('setting it atleast ?')
+
+		observer = new IntersectionObserver((entries) => entries
+			.forEach(({ target, intersectionRatio }) => {
+				console.log("intersection triggered !!");
+				if (intersectionRatio >= 0.5) {
+					target.querySelector('.index-footer').classList.add("active");
+				}
+				else {
+					target.querySelector('.index-footer').classList.remove("active");
+				}
+			}), config);
+
+		images.forEach(image => observer.observe(image));
+	</script>
+</body>
+
 </html>
