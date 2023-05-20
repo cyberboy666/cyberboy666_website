@@ -28,7 +28,7 @@ features include:
 
 more information, guides and source-code at [projects github]
 
-join the [fb group] for updates, feature discussion and community engagement
+i no longer use facebook but there is a community run [fb group] there or you can ask questions about this project on [scanlines forum](https://scanlines.xyz) 
 
 [![image](/images/recur/recur-image1.jpg)](https://www.facebook.com/groups/114465402691215/)
 

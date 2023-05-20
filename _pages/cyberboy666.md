@@ -4,9 +4,9 @@ layout: cyberboy
 permalink: /cyberboy666/
 ---
 
-# cyberboy666
+_art / tech portfolio and archive for creative works by cyberboy666_
 
-_cyberboy666_
+# cyberboy666
 
 video-artist & toolmaker
 
@@ -16,7 +16,7 @@ interested in: experimental video-art, electronics, creative code, open source, 
 
 find me online at:
 
-[mastodon](https://autonomous.zone/@cyberboy666), [instagram](https://www.instagram.com/cyberboy666/), [github](https://github.com/cyberboy666), [youtube](https://www.youtube.com/channel/UC7CJrYjXb917EFqMgOUC0Hw), [underscores](https://underscores.shop), [scanlines](https://scanlines.xyz/), [videos.scanlines](https://videos.scanlines.xyz/a/cyberboy666/)
+[mastodon](https://autonomous.zone/@cyberboy666), [instagram](https://www.instagram.com/cyberboy666/), [github](https://github.com/cyberboy666), [youtube](https://www.youtube.com/channel/UC7CJrYjXb917EFqMgOUC0Hw), [underscores](https://underscores.shop), [scanlines](https://scanlines.xyz/), [videos.scanlines](https://videos.scanlines.xyz/a/cyberboy666/) [polyphaseportal](https://polyphaseportal.xyz)
 
 or write directly tim (at) cyberboy666 (dot) com
 
