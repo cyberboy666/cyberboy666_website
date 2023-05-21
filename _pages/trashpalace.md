@@ -24,5 +24,5 @@ click on each entry for text and posters
 - S02 is from 2021
 - S01 is from 2017
 
-there were at least a couple more "seasons" going back to ~2014 before this but was before i was archiving them
+(technically there were at least a couple more "seasons" going back to ~2014 but was before i was archiving them)
 

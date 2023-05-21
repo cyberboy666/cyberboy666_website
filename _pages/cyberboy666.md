@@ -3,10 +3,11 @@ type: cyberboy666
 layout: cyberboy
 permalink: /cyberboy666/
 ---
+# cyberboy666.com
 
 _art / tech portfolio and archive for creative works by cyberboy666_
 
-# cyberboy666
+## cyberboy666
 
 video-artist & toolmaker
 
