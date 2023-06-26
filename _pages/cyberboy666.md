@@ -5,7 +5,7 @@ permalink: /cyberboy666/
 ---
 # cyberboy666.com
 
-_art / tech portfolio and archive for creative works by cyberboy666_
+_art / tech portfolio and archive for creative works by tim caldwell_
 
 ## cyberboy666
 
