@@ -8,13 +8,18 @@ permalink: /trashpalace/
 
 _a weekly celebration of outsider, strange, experimental and cult cinema_
 
-<div class="video-box" id="ratio43"><iframe  id="video-box" src="https://player.vimeo.com/video/186131103?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class="video-box" id="ratio43"><iframe  id="video-box" src="https://videos.scanlines.xyz/videos/embed/ed0fc0f9-cbea-4c48-b32c-6e4d99225b9c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 TRASHPALACE is a weekly film club thats been running intermittently since aprox 2014. the format is usually to watch together every week a feature film preceeded by some trailers and occasional shorts. in addition we have had a range of special events including guest curators, double-features, secret screenings, open-airs, alternative-formats and an annual 12hr movie marathon! 
 
-## __NOW PLAYING LIVE AND ONLINE__
+## __TRASHPALACE.TV__
 
-[trashpalace.tv](https://trashpalace.tv) is now live! physical screenings are every tuesday night in karori, wellington - and if you cant make that we are also streaming each programme online for exactly 7 days - visit the link to see whats on this week and to find out how to get notified !
+[trashpalace.tv](https://trashpalace.tv) is now live! we host the weekly programme online for one week after the physical screenings. currently on hiatus but check back here when the season is active.
+
+check out the TRASHPALACE SEASON 3 ROUNDUP video - 15 seconds from each film that screened this year in the order we watched it!
+
+<div class="video-box" id="ratio43"><iframe  id="video-box" src="https://videos.scanlines.xyz/videos/embed/81d0a6a2-9314-47f0-bc86-2070b1c9876a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 
 # ARCHIVE
 
