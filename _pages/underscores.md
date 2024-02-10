@@ -7,7 +7,7 @@ layout: page
 permalink: /underscores/
 ---
 
-# [underscores.shop](underscores.shop)
+# [underscores.shop](https://underscores.shop)
 
 ### open video hardware label
 
