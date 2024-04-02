@@ -15,6 +15,24 @@ for the last couple of years iv been working with an amazing crew to put on thes
 
 heres some of the promos iv created + a few images captured from the nights
 
+## LTRL004
+
+![latmov](/images/lateralmovement/latmov_04.jpg)
+
+<details><summary>some content for and from this night</summary>
+
+<iframe title="lat_mov_4_promo_cyberboy666_square_02" width="560" height="315" src="https://videos.scanlines.xyz/videos/embed/cbab249b-03d9-4435-b81c-9299c7b1c6c8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+<img src="/images/lateralmovement/latmov004_01.jpeg">
+
+<img src="/images/lateralmovement/latmov004_02.jpeg">
+
+<img src="/images/lateralmovement/latmov004_03.jpeg">
+
+<iframe title="led_install_example" width="560" height="315" src="https://videos.scanlines.xyz/videos/embed/d1ea1f33-6285-47ae-9083-3c3b7c5320fc" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+</details>
+
 ## LTRL003
 
 ![latmov](/images/lateralmovement/latmov_03.jpg)
